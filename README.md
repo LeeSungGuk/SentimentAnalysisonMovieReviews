@@ -2,7 +2,21 @@
 
 ## Abstract
 
-- 영화 리뷰 감성 분석
 - kaggle Sentiment Analysis on Movie Reviews
-- project (모델 성능 최적화)
-- kaggle 점수 확인
+- project (Model Performance optimization)
+- kaggle score confirmation.
+
+## How?
+ 
+- Data collection in kaggle website.
+- Machine Learing Algorithm (SVC, Random Forest, MultinormNB)
+- Rule 
+  0 - negative
+  1 - somewhat negative
+  2 - neutral
+  3 - somewhat positive
+  4 - positive
+  
+## Conclusion
+- Test Score : 0.61
+- Predict Score : 0.60
