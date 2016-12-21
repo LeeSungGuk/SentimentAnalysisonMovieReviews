@@ -20,3 +20,4 @@
 ## Conclusion
 - Test Score : 0.61
 - Predict Score : 0.60
+![alt tag](./resource/3.png)
