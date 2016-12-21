@@ -20,4 +20,4 @@
 ## Conclusion
 - Test Score : 0.61
 - Predict Score : 0.60
-![Conclusion](/SentimentAnalysisonMovieReviews/resource/3.png)
+![image](https://github.com/LeeSungGuk/SentimentAnalysisonMovieReviews/tree/master/resource/3.png)
